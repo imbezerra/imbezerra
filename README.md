@@ -7,5 +7,5 @@ I'm a **Software Engineer** dedicated to building clean, scalable, and efficient
 #### 🛠️ Tech Stack & Ecosystem
 
 ```text
-Backend     │ Java • Spring Boot • Python • Node.js
+Backend     │ Java • C# • Python • Node.js
 Core Focus  │ Software Architecture • Distributed Systems • Clean Code
